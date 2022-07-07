@@ -1,3 +1,3 @@
 # SLFSVS
 
-Maps are done
+Maps are maps
